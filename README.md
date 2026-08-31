@@ -4,7 +4,8 @@
 
 This project analyzes an e-commerce dataset using MySQL to understand customer behavior, product performance, revenue trends, website traffic, conversion rates, and customer retention.
 
-The analysis contains 40+ business-oriented SQL questions covering both basic and advanced SQL concepts.
+The analysis contains **40+ business-oriented SQL questions** covering both basic and advanced SQL concepts.
+
 ---
 
 ## 🗂️ Dataset
@@ -200,3 +201,4 @@ Through this project, I strengthened my ability to:
 **Malleshwari**
 
 Aspiring Data Analyst | SQL | Power BI
+

@@ -121,19 +121,16 @@ This project demonstrates practical use of:
 - Customer segmentation
 
 ---
-
 ## 📁 Project Structure
 
-ecommerce-sql-data-analysis/
-│
-├── README.md
-│
-└── sql/
-    ├── 01_customer_analysis.sql
-    ├── 02_product_analysis.sql
-    ├── 03_revenue_analysis.sql
-    ├── 04_website_analysis.sql
-    └── 05_advanced_customer_analysis.sql
+- README.md
+- sql/
+  - 01_customer_analysis.sql
+  - 02_product_analysis.sql
+  - 03_revenue_analysis.sql
+  - 04_website_analysis.sql
+  - 05_advanced_customer_analysis.sql
+
 ---
 
 ## 🎯 Project Objective

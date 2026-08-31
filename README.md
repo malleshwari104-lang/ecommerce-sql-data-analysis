@@ -148,6 +148,34 @@ The analysis focuses on understanding:
 
 ---
 
+## 💡 Key Business Insights
+
+### 1. Top Customer Revenue
+
+The highest-value customer generated **$251.94** in total revenue. The top five customers generated between **$219.96 and $251.94**.
+
+### 2. Top Product by Revenue
+
+**The Original Mr. Fuzzy** was the strongest revenue-generating product, generating approximately **$1.42 million** in revenue.
+
+### 3. Monthly Revenue Trend
+
+**December 2013** recorded the highest monthly revenue at **$58,262.60**, while March recorded the lowest at **$19,896.15**. Revenue generally increased during the second half of the year.
+
+### 4. Traffic Source Conversion
+
+Direct/unspecified traffic had the highest conversion rate at **6.96%**, followed by `bsearch` at **6.49%** and `gsearch` at **6.04%**. `socialbook` had the lowest conversion rate at **1.53%**.
+
+### 5. Customer Retention
+
+Out of **7,343 customers** who placed an order in 2013, **24 customers** also purchased in 2014, resulting in a **0.33% retention rate** based on this definition.
+
+### 6. Device Conversion
+
+Desktop users had a **7.05% conversion rate**, compared with **3.97% for mobile users**. This indicates a potential opportunity to investigate the mobile shopping experience and conversion funnel.
+
+---
+
 ## 🚀 Key Learning Outcomes
 
 Through this project, I strengthened my ability to:

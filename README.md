@@ -130,6 +130,7 @@ This project demonstrates practical use of:
   - `03_revenue_analysis.sql`
   - `04_website_analysis.sql`
   - `05_advanced_customer_analysis.sql`
+  
 ---
 
 ## 🎯 Project Objective

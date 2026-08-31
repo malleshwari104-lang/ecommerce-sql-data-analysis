@@ -124,7 +124,6 @@ This project demonstrates practical use of:
 
 ## 📁 Project Structure
 
-```text
 ecommerce-sql-data-analysis/
 │
 ├── README.md
@@ -135,7 +134,6 @@ ecommerce-sql-data-analysis/
     ├── 03_revenue_analysis.sql
     ├── 04_website_analysis.sql
     └── 05_advanced_customer_analysis.sql
-```
 ---
 
 ## 🎯 Project Objective
